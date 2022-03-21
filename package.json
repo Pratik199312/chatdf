@@ -1,0 +1,35 @@
+{
+  "name": "ex1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "^2.14.0",
+    "axios": "^0.21.1",
+    "dialogflow-fulfillment": "^0.6.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "gpt3": "^2.1.1",
+    "https": "^1.0.0",
+    "JSDOM": "npm:jsdom@^19.0.0",
+    "mongodb": "^4.4.0",
+    "mongoose": "^6.2.3",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "servicenow": "^0.5.0",
+    "servicenow-client": "^1.0.7",
+    "servicenow-rest-api": "^1.2.1",
+    "twilio": "^3.75.0",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "jsdom": "^19.0.0"
+  }
+}
